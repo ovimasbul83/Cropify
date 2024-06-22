@@ -1,0 +1,379 @@
+,Nitrogen,Phosphorus,Potassium,Temperature,Humidity,pH_Value,Rainfall,Crop,Response
+19,88,35,40,23.57943626,83.58760316,5.85393208,291.2986618,Rice,"Based on the given environmental conditions of Nitrogen level 88.0, Phosphorus level 35.0, Potassium level 40.0, Temperature 23.57°C, Humidity 83.58%, pH value 5.85, and Rainfall 291.29 mm, the following crops are recommended:
+
+Grains: Rice - The conditions are suitable for growing rice, especially with the high rainfall and moderate temperature.
+
+Legumes: Jute - The nitrogen, phosphorus, potassium, temperature, and rainfall levels are within the suitable range for cultivating jute. Blackgram - The temperature and rainfall conditions are favorable for growing blackgram.
+
+Fibers: Jute - As mentioned earlier, the conditions are appropriate for jute cultivation.
+
+The provided environmental parameters do not closely match the ideal conditions for other crop categories like Beverage Crops (e.g., Coffee), Legumes (e.g., ChickPea, KidneyBeans, PigeonPeas, MothBeans, MungBean, Lentil), or other Grains (e.g., Maize). Therefore, based on the given context, Rice, Jute, and Blackgram are the recommended crops for the specified environmental conditions.
+
+It's important to note that crop recommendations can vary based on local factors, soil conditions, and agricultural practices, so it's advisable to consult with local agricultural experts or extension services for more specific guidance."
+63,70,36,42,21.84106875,80.72886384,6.946209881,202.3838319,Rice,"Based on the given environmental conditions of Nitrogen level 70.0, Phosphorus level 36.0, Potassium level 42.0, Temperature 21.84°C, Humidity 80.72%, pH value 6.94, and Rainfall 202.38 mm, the following crops are recommended:
+
+Jute: Jute is a fiber crop that can thrive under these conditions. The nitrogen, phosphorus, and potassium levels, as well as the temperature and rainfall, are suitable for jute cultivation. The humidity level is also within an acceptable range for jute.
+
+Rice: Rice is a grain crop that can be grown under these conditions. The nitrogen, phosphorus, and potassium levels, as well as the temperature and rainfall, are favorable for rice cultivation. The humidity level is also suitable for rice.
+
+Blackgram: Blackgram is a legume crop that can be cultivated under these conditions. The nitrogen, phosphorus, and potassium levels, as well as the temperature and rainfall, are appropriate for blackgram cultivation. The humidity level is also within an acceptable range for blackgram.
+
+MungBean: MungBean is another legume crop that can be grown under these conditions. The nitrogen, phosphorus, and potassium levels, as well as the temperature and rainfall, are suitable for mungbean cultivation. The humidity level is also favorable for mungbean.
+
+These recommendations cover a diverse range of crops, including grains (Rice), legumes (Blackgram, MungBean), and fibers (Jute). The environmental conditions provided are suitable for the growth and cultivation of these crops. However, it is essential to consider other factors such as soil quality, irrigation facilities, and pest management practices for successful crop production."
+118,66,53,19,23.09348056,60.1159381,6.033550195,65.49730729,Maize,"Based on the given environmental conditions of Nitrogen level 66.0, Phosphorus level 53.0, Potassium level 19.0, Temperature 23.09°C, Humidity 60.11%, pH value 6.033, and Rainfall 65.49 mm, the following crops are recommended:
+
+Grains:
+
+Maize: The temperature, humidity, and pH values are suitable for growing maize. The nitrogen and phosphorus levels are also within the recommended range for maize cultivation.
+Legumes:
+
+Lentil: The temperature, humidity, and pH values are suitable for growing lentils. The nitrogen and phosphorus levels are also within the recommended range for lentil cultivation.
+
+Blackgram: The temperature, humidity, and pH values are suitable for growing blackgram. The nitrogen and phosphorus levels are also within the recommended range for blackgram cultivation.
+
+MungBean: The temperature, humidity, and pH values are suitable for growing mungbean. The nitrogen and phosphorus levels are also within the recommended range for mungbean cultivation.
+
+Fibers:
+
+Jute: The temperature, humidity, and pH values are suitable for growing jute. The nitrogen, phosphorus, and potassium levels are also within the recommended range for jute cultivation.
+The recommended crops cover a diverse range of grains, legumes, and fiber crops, ensuring a balanced selection based on the given environmental conditions."
+171,62,48,20,21.70181447,60.47470519,6.708446922,95.71388473,Maize,"Based on the given environmental conditions of Nitrogen level 62.0, Phosphorus level 48.0, Potassium level 20.0, Temperature 21.7°C, Humidity 60.47%, pH value 6.7, and Rainfall 95.71 mm, the following crops are recommended:
+
+Grains:
+
+Maize: The temperature, humidity, and pH values are suitable for growing maize.
+Legumes:
+
+Lentil: The nitrogen, phosphorus, potassium, temperature, and pH levels are within the appropriate range for cultivating lentils.
+KidneyBeans: The temperature, humidity, and pH conditions are favorable for growing kidney beans.
+PigeonPeas: The given environmental parameters align with the requirements for pigeon pea cultivation.
+Fibers:
+
+Cotton: The temperature, humidity, and pH levels are conducive for cotton production.
+Beverage Crops:
+
+Coffee: The temperature, humidity, and pH values are suitable for coffee cultivation.
+It is important to note that while these crops are recommended based on the provided environmental conditions, other factors such as soil quality, irrigation practices, and pest management should also be considered for successful cultivation. Additionally, crop rotation and intercropping techniques can be employed to enhance soil fertility and promote sustainable farming practices."
+227,59,60,84,19.03025305,18.66725565,7.690962338,94.70992037,ChickPea,"Based on the given environmental conditions (Nitrogen level: 59.0, Phosphorus level: 60.0, Potassium level: 84.0, Temperature: 19.03°C, Humidity: 18.66%, pH value: 7.69, and Rainfall: 94.7099 mm), the most suitable crops from the provided categories are:
+
+Legumes:
+
+ChickPea: The conditions align well with the examples provided for growing chickpeas, particularly the low temperature, low humidity, and high potassium levels.
+Fibers: 2. Cotton: The nitrogen, phosphorus, and potassium levels, as well as the temperature and pH value, are within the range observed for cotton cultivation in the given context.
+
+Other Crops: 3. KidneyBeans: While not an exact match, the low temperature, low humidity, and moderate rainfall conditions could potentially support the growth of kidney beans.
+
+The recommendations prioritize crops that are well-suited to the specific environmental conditions described, ensuring optimal growth and yield. It's important to note that these are general recommendations based on the provided context, and local factors, soil conditions, and agricultural practices should also be considered for successful cultivation."
+280,54,62,80,17.48911699,16.39055394,7.489545074,79.45758333,ChickPea,"Based on the given environmental conditions of Nitrogen level 54.0, Phosphorus level 62.0, Potassium level 80.0, Temperature 17.48°C, Humidity 16.39%, pH value 7.48, and Rainfall 79.45 mm, the following crops are recommended:
+
+ChickPea (Legume) The temperature, humidity, pH value, and rainfall conditions align well with the requirements for growing chickpeas. The high potassium level is also suitable for this crop.
+
+Cotton (Fiber) Cotton is a fiber crop that can thrive in the given conditions, particularly the moderate temperature, low humidity, and slightly alkaline pH.
+
+Lentil (Legume) Lentils can be grown in the provided environmental conditions, as they prefer cooler temperatures, moderate rainfall, and slightly alkaline soils.
+
+These recommendations cover a diverse range of crops, including legumes (ChickPea and Lentil) and a fiber crop (Cotton). The given conditions are not ideal for grains like Rice or Maize, beverage crops like Coffee, or other legumes like KidneyBeans, PigeonPeas, MothBeans, MungBean, Blackgram, or Jute. However, the recommended crops are well-suited to the specified environmental parameters and can potentially thrive under these conditions."
+321,19,65,25,18.09551014,18.29318436,5.625096446,144.7902323,KidneyBeans,"Based on the given environmental conditions of Nitrogen level 19.0, Phosphorus level 65.0, Potassium level 25.0, Temperature 18.09°C, Humidity 18.29%, pH value 5.62, and Rainfall 144.79 mm, the recommended crops are:
+
+Grains: None of the grain crops like Rice or Maize are suitable for these conditions.
+
+Legumes:
+
+Lentil - This legume crop is well-suited for the given conditions, particularly the lower temperature, humidity, and moderate rainfall.
+KidneyBeans - The environmental parameters align well with the requirements for cultivating KidneyBeans.
+Fibers: None of the fiber crops like Jute or Cotton are recommended for these conditions.
+
+Beverage Crops: None of the beverage crops like Coffee are suitable for the given parameters.
+
+The combination of low temperature, low humidity, moderate rainfall, and slightly acidic soil pH makes Lentil and KidneyBeans the most suitable crops to cultivate under these environmental conditions. These legume crops can thrive in cooler climates and do not require excessive moisture or high temperatures."
+365,34,66,17,18.81097271,21.27833035,5.889614577,125.084915,KidneyBeans,"Based on the given environmental conditions of Nitrogen level 34.0, Phosphorus level 66.0, Potassium level 17.0, Temperature 18.81°C, Humidity 21.27%, pH value 5.88, and Rainfall 125.08 mm, the recommended crops are:
+
+Lentil: The conditions align well with the requirements for growing lentils, which are a legume crop. The temperature, humidity, and rainfall levels are suitable for lentil cultivation.
+
+KidneyBeans: Another legume crop that can thrive in the given conditions. The temperature, pH value, and rainfall levels are favorable for kidney bean production.
+
+ChickPea: This legume crop can also be considered as the temperature, humidity, and pH value are within the suitable range for chickpea cultivation.
+
+The provided environmental conditions do not seem to be ideal for growing grains like Rice and Maize, fiber crops like Jute and Cotton, or beverage crops like Coffee. However, the conditions are conducive for cultivating certain legume crops, which can help in maintaining a diverse range of plants.
+
+It's important to note that while these recommendations are based on the given parameters, other factors such as soil quality, irrigation facilities, and local agricultural practices should also be considered for successful crop cultivation."
+431,26,73,21,31.33170829,57.97429171,4.946263888,161.7820226,PigeonPeas,"Based on the given environmental conditions of Nitrogen level 26.0, Phosphorus level 73.0, Potassium level 21.0, Temperature 31.33°C, Humidity 57.97%, pH value 4.9, and Rainfall 155.66 mm, the following crops could be recommended:
+
+Pigeonpeas: The high temperature, moderate humidity, and rainfall levels are suitable for growing pigeonpeas, which are a legume crop. However, the low pH value of 4.9 may not be ideal, as pigeonpeas prefer a slightly acidic to neutral soil pH range of 5.5 to 7.5.
+
+Blackgram: This legume crop can tolerate high temperatures and moderate humidity levels. The rainfall and nutrient levels provided are within the suitable range for blackgram cultivation.
+
+Cotton: Cotton is a fiber crop that can thrive in warm to hot temperatures and moderate humidity conditions. The given environmental parameters align with the requirements for cotton cultivation.
+
+Maize: As a grain crop, maize can be grown in the provided temperature and humidity ranges. However, the low pH value of 4.9 may not be optimal, as maize prefers a soil pH range of 5.5 to 7.0.
+
+It's important to note that while these crops may be suitable based on the provided environmental conditions, other factors such as soil type, irrigation availability, and local agricultural practices should also be considered for successful cultivation. Additionally, appropriate soil amendments or management practices may be required to address the low pH value, if necessary.
+
+"
+468,20,74,16,36.04353699,43.61444121,4.759490199,159.8938645,PigeonPeas,"Based on the given environmental conditions (Nitrogen level: 20.0, Phosphorus level: 74.0, Potassium level: 16.0, Temperature: 36.04°C, Humidity: 43.61%, pH value: 4.75, and Rainfall: 159.89 mm), the most suitable crop recommendations from the provided categories are:
+
+Grains:
+
+None of the grain crops (Rice, Maize) seem suitable for these conditions, as the temperature is quite high, and the pH value is low.
+Legumes:
+
+PigeonPeas: This legume crop can tolerate high temperatures and low pH values. The given conditions align well with the requirements for PigeonPeas cultivation.
+Fibers:
+
+None of the fiber crops (Jute, Cotton) appear suitable for these conditions, as they generally prefer moderate temperatures and slightly acidic to neutral pH levels.
+Beverage Crops:
+
+None of the beverage crops (Coffee) seem suitable for these conditions, as they typically require cooler temperatures and higher rainfall.
+Therefore, based on the provided environmental parameters, PigeonPeas would be the most recommended crop to cultivate. It is a drought-tolerant legume that can withstand high temperatures and slightly acidic soil conditions.
+
+However, it's important to note that crop recommendations should also consider other factors, such as soil type, irrigation availability, and local agricultural practices, which are not provided in the given context.
+
+"
+522,9,51,19,27.04453473,49.32609633,5.49091063,48.25207759,MothBeans,"Based on the given environmental conditions (Nitrogen level: 9.0, Phosphorus level: 51.0, Potassium level: 19.0, Temperature: 27.04°C, Humidity: 49.32%, pH value: 5.49, and Rainfall: 48.25 mm), the following crops are recommended:
+
+Grains:
+
+Maize: The temperature, humidity, and rainfall conditions are suitable for growing maize.
+Legumes:
+
+MungBean: The temperature, humidity, and rainfall conditions are favorable for cultivating mungbean.
+MothBeans: The temperature and rainfall conditions align with the requirements for growing mothbeans.
+Fibers:
+
+Jute: The nitrogen, phosphorus, potassium, temperature, and rainfall levels are within the suitable range for jute cultivation.
+The recommended crops cover a diverse range of categories, including grains, legumes, and fibers. These crops are well-suited to the given environmental conditions and can potentially thrive under the specified parameters.
+
+It's important to note that while these recommendations are based on the provided context, other factors such as soil quality, irrigation practices, and local agricultural practices should also be considered for successful crop cultivation."
+552,12,39,21,28.99319096,62.85948245,8.183844843,70.4713043,MothBeans,"Based on the given environmental conditions (Nitrogen level: 12.0, Phosphorus level: 39.0, Potassium level: 21.0, Temperature: 27.6°C, Humidity: 62.5%, pH value: 8.18, and Rainfall: 70.47 mm), the following crops are recommended:
+
+Grains:
+
+Rice
+Legumes:
+
+MothBeans
+MungBean
+Blackgram
+PigeonPeas
+Fibers:
+
+Cotton
+Explanation:
+
+Rice: The given conditions, particularly the temperature and humidity levels, are suitable for rice cultivation.
+
+MothBeans: The high pH value (8.18) and moderate rainfall (70.47 mm) align with the requirements for growing MothBeans.
+
+MungBean: MungBean can thrive in the given temperature and humidity ranges, and the rainfall amount is within the acceptable range.
+
+Blackgram: Blackgram is a drought-tolerant crop that can grow well in the provided environmental conditions, especially the temperature and rainfall levels.
+
+PigeonPeas: PigeonPeas can tolerate high temperatures and moderate rainfall, making the given conditions suitable for their cultivation.
+
+Cotton: Cotton is a fiber crop that can be grown in the specified temperature and humidity ranges, and the rainfall amount is within the acceptable limits.
+
+It's important to note that while these crops are recommended based on the provided environmental conditions, other factors such as soil quality, irrigation facilities, and local agricultural practices should also be considered for successful cultivation."
+610,28,35,22,29.53037621,86.73346018,7.156563094,59.87232071,MungBean,"Based on the given environmental conditions (Nitrogen level: 12.0, Phosphorus level: 39.0, Potassium level: 21.0, Temperature: 27.6°C, Humidity: 62.5%, pH value: 8.18, and Rainfall: 70.47 mm), the following crops are recommended:
+
+Grains:
+
+Rice
+Legumes:
+
+MothBeans
+MungBean
+Blackgram
+PigeonPeas
+Fibers:
+
+Cotton
+Explanation:
+
+Rice: The given conditions, particularly the temperature and humidity levels, are suitable for rice cultivation.
+
+MothBeans: The high pH value (8.18) and moderate rainfall (70.47 mm) align with the requirements for growing MothBeans.
+
+MungBean: MungBean can thrive in the given temperature and humidity ranges, and the rainfall amount is within the acceptable range.
+
+Blackgram: Blackgram is a drought-tolerant crop that can grow well in the provided environmental conditions, especially the temperature and rainfall levels.
+
+PigeonPeas: PigeonPeas can tolerate high temperatures and moderate rainfall, making the given conditions suitable for their cultivation.
+
+Cotton: Cotton is a fiber crop that can be grown in the specified temperature and humidity ranges, and the rainfall amount is within the acceptable limits.
+
+It's important to note that while these crops are recommended based on the provided environmental conditions, other factors such as soil quality, irrigation facilities, and local agricultural practices should also be considered for successful cultivation."
+668,30,37,25,29.89129144,80.14487166,7.120032489,54.7960127,MungBean,"Based on the given environmental conditions of Nitrogen level 30.0, Phosphorus level 37.0, Potassium level 25.0, Temperature 29.93°C, Humidity 80.14%, pH value 7.12, and Rainfall 54.79 mm, the recommended crops are:
+
+Grains:
+
+Rice (suitable for the given temperature, humidity, and pH range)
+Legumes:
+
+MungBean (suitable for the given temperature, humidity, pH, and rainfall range)
+Blackgram (suitable for the given temperature, humidity, and rainfall range)
+Fibers:
+
+Jute (suitable for the given nitrogen, phosphorus, potassium, temperature, humidity, and rainfall range)
+The environmental conditions provided are suitable for cultivating these crops. MungBean and Blackgram are leguminous crops that can thrive in the given temperature, humidity, and rainfall range. Jute is a fiber crop that can grow well in the specified nutrient levels, temperature, humidity, and rainfall conditions. Rice, being a grain crop, can also be cultivated in the given pH range and moderate temperature and humidity levels.
+
+It's important to note that while these crops are recommended based on the provided parameters, other factors such as soil type, irrigation practices, and local climate patterns should also be considered for successful cultivation."
+719,20,62,18,29.36358721,64.98742947,7.366542647,61.91208707,Blackgram,"Based on the given environmental conditions: Nitrogen level: 20.0 Phosphorus level: 62.0 Potassium level: 18.0 Temperature: 29.36°C Humidity: 64.98% pH value: 7.36 Rainfall: 61.91 mm
+
+The recommended crops are:
+
+Blackgram (Legume) The provided conditions closely match the ideal requirements for growing Blackgram. The temperature, humidity, and rainfall levels are suitable for this crop.
+
+MungBean (Legume) MungBean is another legume crop that can thrive under the given environmental conditions, particularly the temperature and humidity ranges.
+
+Maize (Grain) The temperature and rainfall levels are favorable for cultivating Maize, a widely grown grain crop.
+
+These recommendations cover a diverse range of crops from the legume and grain categories, ensuring a balanced selection suitable for the specified environmental parameters. It's important to note that while these crops are well-suited to the provided conditions, other factors such as soil quality, irrigation practices, and pest management should also be considered for successful cultivation."
+759,21,72,17,31.52104732,66.55723677,7.580527339,61.71111448,Blackgram,"Based on the given environmental conditions: Nitrogen level: 21.0 Phosphorus level: 72.0 Potassium level: 17.0 Temperature: 31.52°C Humidity: 66.55% pH value: 7.58 Rainfall: 61.71 mm
+
+The recommended crops are:
+
+Blackgram (Legume) The high temperature, moderate humidity, and slightly alkaline pH conditions are suitable for growing blackgram. The nitrogen, phosphorus, and potassium levels, along with the rainfall amount, align well with the requirements of this crop.
+
+PigeonPeas (Legume) PigeonPeas can thrive in the given warm temperature, moderate humidity, and slightly alkaline pH conditions. The nutrient levels and rainfall are also within the acceptable range for this crop.
+
+Cotton (Fiber) Cotton is a fiber crop that can tolerate the provided environmental conditions, including the high temperature, moderate humidity, and slightly alkaline pH. The nutrient levels and rainfall are suitable for cotton cultivation.
+
+These recommendations cover a diverse range of crops, including legumes (blackgram and pigeonpeas) and a fiber crop (cotton). The given environmental conditions are favorable for the growth and production of these crops.
+
+"
+833,10,78,18,18.54141834,62.70637578,6.296976913,44.07819743,Lentil,"Based on the given environmental conditions of Nitrogen level 10.0, Phosphorus level 78.0, Potassium level 18.0, Temperature 18.54°C, Humidity 62.7%, pH value 6.29, and Rainfall 44.07 mm, the recommended crops from the provided categories are:
+
+Grains:
+
+Maize: The temperature, humidity, and pH values are suitable for growing maize.
+Legumes:
+
+Lentil: The nitrogen, phosphorus, potassium levels, temperature, and pH value align well with the requirements for cultivating lentils.
+KidneyBeans: The temperature, humidity, and pH conditions are favorable for growing kidney beans.
+Fibers:
+
+Cotton: The given environmental conditions, particularly the temperature and humidity, are appropriate for cotton cultivation.
+The provided context does not contain sufficient information to recommend beverage crops like Coffee under the given conditions.
+
+It's important to note that while these crops are recommended based on the given parameters, other factors such as soil quality, irrigation availability, and local agricultural practices should also be considered for successful cultivation."
+883,14,76,20,29.05941162,62.10652364,7.042474679,36.5011366,Lentil,"Based on the given environmental conditions (Nitrogen level: 14.0, Phosphorus level: 76.0, Potassium level: 20.0, Temperature: 29.05°C, Humidity: 62.1%, pH value: 7.04, and Rainfall: 36.5 mm) and the context provided, the recommended crops are:
+
+Legumes:
+
+Lentil: The nitrogen, phosphorus, potassium, temperature, and pH values align with the conditions for growing lentils mentioned in the context.
+Fibers:
+
+Cotton: The temperature, humidity, and pH values are suitable for growing cotton as per the context.
+Grains:
+
+Rice: The nitrogen, phosphorus, potassium, temperature, and pH values are within the range for growing rice mentioned in the context.
+The recommended crops cover a diverse range of categories, including legumes (lentil), fibers (cotton), and grains (rice), while considering the given environmental conditions and the context provided. It's important to note that other factors like soil quality, irrigation, and pest management should also be taken into account for successful cultivation."
+913,60,55,40,24.9949957,88.95692783,7.02777956,151.4935635,Jute,"Based on the given environmental conditions of Nitrogen level 60.0, Phosphorus level 55.0, Potassium level 40.0, Temperature 25.0°C, Humidity 88.95%, pH value 7.02, and Rainfall 151.49 mm, the following crops are recommended:
+
+Grains:
+
+Rice: The conditions are suitable for growing rice, as it prefers high humidity, moderate temperatures, and a slightly acidic to neutral soil pH.
+Legumes:
+
+Jute: The provided conditions align well with the requirements for growing jute, which is a fiber crop. Jute thrives in warm temperatures, high humidity, and moderate rainfall.
+
+MungBean: The environmental conditions, particularly the temperature, humidity, and rainfall, are favorable for cultivating mungbean, which is a leguminous crop.
+
+Fibers:
+
+Jute: As mentioned earlier, the given conditions are suitable for growing jute, which is a fiber crop.
+
+Cotton: The temperature, humidity, and rainfall levels are within the acceptable range for cotton cultivation, making it a viable option.
+
+The recommended crops cover a diverse range, including grains (rice), legumes (jute, mungbean), and fibers (jute, cotton). These crops are well-suited to the provided environmental conditions and can potentially thrive under such circumstances.
+
+It's important to note that while these recommendations are based on the given parameters, other factors such as soil quality, irrigation practices, and local agricultural practices should also be considered for successful crop cultivation."
+954,88,50,40,25.63215038,79.95150917,7.051822472,182.2582277,Jute,"Based on the given environmental conditions of Nitrogen level 88.0, Phosphorus level 50.4, Potassium level 40.0, Temperature 25.63°C, Humidity 79.95%, pH value 7.05, and Rainfall 182.25 mm, the recommended crops are:
+
+Jute The provided conditions closely match the ideal requirements for cultivating Jute. Jute is a fiber crop that thrives in warm and humid climates with moderate rainfall. The given nitrogen, phosphorus, potassium levels, temperature, humidity, and rainfall are suitable for Jute cultivation.
+
+Rice Rice is a grain crop that can be grown in the specified environmental conditions. The temperature, humidity, and rainfall levels are favorable for rice cultivation. However, the nitrogen and potassium levels may need to be slightly adjusted for optimal growth.
+
+Blackgram Blackgram is a legume crop that can tolerate the given conditions. The temperature, humidity, and rainfall are within the suitable range for Blackgram cultivation. The nitrogen, phosphorus, and potassium levels are also appropriate for this crop.
+
+MungBean MungBean is another legume crop that can be grown in the specified environmental conditions. The temperature, humidity, and rainfall are conducive for MungBean cultivation. The nitrogen, phosphorus, and potassium levels are also suitable for this crop.
+
+It's important to note that while these crops are recommended based on the provided environmental conditions, other factors such as soil quality, irrigation practices, and pest management should also be considered for successful cultivation."
+1017,104,20,26,27.22783677,52.95261751,7.493191968,175.7260273,Coffee,"Based on the given environmental conditions of Nitrogen level 104.0, Phosphorus level 20.0, Potassium level 26.0, Temperature 27.22°C, Humidity 52.95%, pH value 7.49, and Rainfall 175.72 mm, the recommended crops are:
+
+Coffee: The nitrogen, phosphorus, potassium, temperature, and pH levels align well with the requirements for growing coffee.
+
+Blackgram: The temperature, humidity, and rainfall conditions are suitable for cultivating blackgram, a legume crop.
+
+Pigeonpeas: The temperature, humidity, and rainfall conditions are favorable for growing pigeonpeas, another legume crop.
+
+Rice: The nitrogen, potassium, temperature, and rainfall levels are appropriate for rice cultivation, which is a grain crop.
+
+The combination of these crops provides a diverse range, including a beverage crop (Coffee), legumes (Blackgram and Pigeonpeas), and a grain crop (Rice). These recommendations consider the given environmental parameters and ensure suitability for the specified conditions.
+
+"
+1068,112,39,29,26.12492233,63.37479229,6.726528895,147.8035305,Coffee,"Based on the given environmental conditions (Nitrogen level: 112.0, Phosphorus level: 39.0, Potassium level: 29.0, Temperature: 26.12°C, Humidity: 63.37%, pH value: 6.72, and Rainfall: 147.8 mm), the following crops are recommended:
+
+Grains:
+
+Rice
+Legumes:
+
+Jute (Fiber crop)
+Blackgram
+Pigeonpeas
+Beverage Crops:
+
+Coffee
+Explanation:
+
+Rice: The temperature, humidity, and rainfall conditions are suitable for rice cultivation. Rice thrives in warm and humid environments with adequate water availability.
+
+Jute: Jute is a fiber crop that can tolerate a wide range of environmental conditions. The given parameters, including temperature, humidity, and rainfall, are favorable for jute cultivation.
+
+Blackgram: This legume crop can grow well in the specified temperature and rainfall conditions. The humidity level is also within the suitable range for blackgram cultivation.
+
+Pigeonpeas: Pigeonpeas can tolerate a wide range of temperatures and rainfall levels. The given conditions are appropriate for their growth.
+
+Coffee: Coffee is a beverage crop that requires warm temperatures and moderate rainfall. The specified temperature and rainfall conditions are suitable for coffee cultivation.
+
+It's important to note that while these crops are recommended based on the provided environmental conditions, other factors such as soil quality, irrigation facilities, and local agricultural practices should also be considered for successful cultivation."
+1093,118,31,34,27.54823036,62.88179198,6.123796057,181.4170812,Coffee,"Based on the given environmental conditions of Nitrogen level 118.0, Phosphorus level 31.0, Potassium level 34.0, Temperature 27.54°C, Humidity 62.88%, pH value 6.12, and Rainfall 181.41 mm, the following crops are recommended:
+
+Cotton: The conditions align well with the requirements for growing cotton, which is a fiber crop. The temperature, humidity, and rainfall levels are suitable for cotton cultivation.
+
+Jute: Another fiber crop that can thrive under these conditions. The nitrogen, phosphorus, and potassium levels, along with the temperature and rainfall, are favorable for jute production.
+
+Rice: As a grain crop, rice can be grown in these environmental conditions. The temperature, humidity, and rainfall levels are appropriate for rice cultivation, although the nitrogen level may need to be slightly adjusted.
+
+Blackgram: This legume crop can be grown under the given conditions. The temperature, humidity, and rainfall are suitable for blackgram cultivation.
+
+PigeonPeas: Another legume crop that can be considered for these environmental conditions. The temperature, humidity, and rainfall levels are conducive to growing pigeonpeas.
+
+It's important to note that while these crops are recommended based on the provided parameters, other factors such as soil quality, irrigation facilities, and local agricultural practices should also be considered for successful cultivation."
+1115,131,35,18,24.49112609,82.24415809,7.057693366,64.02949379,Cotton,"Based on the given environmental conditions (Nitrogen level: 131.0, Phosphorus level: 35.0, Potassium level: 18.0, Temperature: 24.49°C, Humidity: 82.24%, pH value: 7.05, and Rainfall: 64.02 mm), the following crops are recommended:
+
+Grains:
+
+Rice (suitable for the given temperature, humidity, and pH range)
+Legumes:
+
+Blackgram (suitable for the given temperature, humidity, and rainfall range)
+Lentil (suitable for the given temperature, humidity, and pH range)
+MungBean (suitable for the given temperature and humidity range)
+Fibers:
+
+Cotton (suitable for the given temperature, humidity, and pH range)
+The recommended crops cover a diverse range of categories, including grains, legumes, and fibers. These crops are well-suited for the provided environmental conditions, considering factors such as temperature, humidity, pH, and rainfall.
+
+It's important to note that while these recommendations are based on the given parameters, other factors like soil quality, irrigation practices, and local climate patterns should also be considered for successful cultivation."
+1178,140,45,15,25.5308271,80.04662756,5.801047545,99.39557151,Cotton,"Based on the given environmental conditions of Nitrogen level 140.0, Phosphorus level 45.0, Potassium level 15.0, Temperature 25.53°C, Humidity 80.04%, pH value 5.8, and Rainfall 99.39 mm, the following crops could be recommended:
+
+Grains: Rice - The conditions are suitable for growing rice, as it prefers high nitrogen levels, moderate temperatures, and high humidity.
+
+Legumes: Blackgram - The temperature, humidity, and rainfall conditions are favorable for growing blackgram, which is a legume crop. Lentil - Lentils can tolerate a wide range of environmental conditions, and the given parameters are suitable for their cultivation.
+
+Fibers: Cotton - Cotton is a fiber crop that can thrive in the provided environmental conditions, particularly the temperature and humidity levels.
+
+It is important to note that while these crops are recommended based on the given parameters, other factors such as soil type, irrigation facilities, and local agricultural practices should also be considered for successful cultivation."

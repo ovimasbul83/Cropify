@@ -1,0 +1,213 @@
+Query,Response
+"Nitrogen level is 68, Phosphorus level is 57, Potassium level is 43, Temperature is 26.08867875°C, Humidity is 80.37979919%, pH value is 5.706943251, and Rainfall is 182.9043504 mm .Ensure to include a diverse range of plants from the following categories: Grains (e.g., Rice, Maize), Legumes (e.g., ChickPea, KidneyBeans, PigeonPeas, MothBeans, MungBean, Blackgram, Lentil), Fibers (e.g., Jute, Cotton), Beverage Crops (e.g., Coffee), Consider all parameters and ensure that the recommendations are suitable for the given environmental conditions.which crops are recommended?","Based on the given environmental conditions:
+Nitrogen level: 68
+Phosphorus level: 57
+Potassium level: 43
+Temperature: 26.08867875°C
+Humidity: 80.37979919%
+pH value: 5.706943251
+Rainfall: 182.9043504 mm
+
+The recommended crops are:
+
+1. Rice: The temperature, humidity, and rainfall conditions are suitable for growing rice. However, the pH value is slightly on the acidic side, which may need to be adjusted for optimal rice cultivation.
+
+2. Jute: The temperature, humidity, rainfall, and nutrient levels (nitrogen, phosphorus, and potassium) are well-suited for growing jute, which is a fiber crop.
+
+3. Cotton: The temperature and humidity conditions are favorable for cotton cultivation, which is another fiber crop. However, the pH value may need to be adjusted slightly towards a more neutral range for optimal growth.
+
+4. Coffee: The temperature and rainfall conditions are suitable for growing coffee, which is a beverage crop. However, the humidity level is on the higher side, and the pH value is slightly acidic, which may need to be addressed.
+
+To ensure a diverse range of crops, it is recommended to consider growing a combination of rice (grain), jute (fiber), and coffee (beverage crop). Additionally, incorporating legumes like chickpeas, kidney beans, or pigeon peas into the crop rotation can help improve soil fertility and provide additional nutritional benefits.
+
+It is important to note that while the recommendations are based on the given environmental conditions, other factors such as soil quality, irrigation availability, and local agricultural practices should also be considered for successful crop cultivation."
+"Nitrogen level is 90, Phosphorus level is 52, Potassium level is 25, Temperature is 25.97482359°C, Humidity is 69.36385721%, pH value is 6.822586546, and Rainfall is 103.2234212 mm .Ensure to include a diverse range of plants from the following categories: Grains (e.g., Rice, Maize), Legumes (e.g., ChickPea, KidneyBeans, PigeonPeas, MothBeans, MungBean, Blackgram, Lentil), Fibers (e.g., Jute, Cotton), Beverage Crops (e.g., Coffee), Consider all parameters and ensure that the recommendations are suitable for the given environmental conditions.which crops are recommended?","Based on the given environmental conditions (Nitrogen level: 90, Phosphorus level: 52, Potassium level: 25, Temperature: 25.97°C, Humidity: 69.36%, pH value: 6.82, Rainfall: 103.22 mm) and considering a diverse range of crops from different categories, the following crops are recommended:
+
+Grains:
+1. Rice
+
+Legumes: 
+2. Blackgram
+3. PigeonPeas
+4. MungBean
+
+Fibers:
+5. Cotton
+
+Beverage Crops:
+6. Coffee
+
+Explanation:
+
+1. Rice: The temperature, humidity, and rainfall conditions are suitable for rice cultivation.
+
+2. Blackgram: The temperature, humidity, and rainfall conditions align with the requirements for blackgram cultivation.
+
+3. PigeonPeas: The temperature and rainfall conditions are favorable for pigeon pea cultivation.
+
+4. MungBean: The temperature, humidity, and rainfall conditions are appropriate for growing mung beans.
+
+5. Cotton: The temperature, humidity, and rainfall conditions are conducive to cotton cultivation.
+
+6. Coffee: The temperature, humidity, and rainfall conditions are suitable for coffee cultivation.
+
+These recommendations provide a diverse range of crops from different categories, ensuring a balanced selection based on the given environmental parameters. However, it's important to note that other factors such as soil quality, irrigation facilities, and local climate patterns should also be considered for successful crop cultivation."
+"Nitrogen level is 54, Phosphorus level is 62, Potassium level is 80, Temperature is 17.48911699°C, Humidity is 16.39055394%, pH value is 7.489545074, and Rainfall is 79.45758333 mm .Ensure to include a diverse range of plants from the following categories: Grains (e.g., Rice, Maize), Legumes (e.g., ChickPea, KidneyBeans, PigeonPeas, MothBeans, MungBean, Blackgram, Lentil), Fibers (e.g., Jute, Cotton), Beverage Crops (e.g., Coffee), Consider all parameters and ensure that the recommendations are suitable for the given environmental conditions.which crops are recommended?","Based on the given environmental conditions of Nitrogen level 54, Phosphorus level 62, Potassium level 80, Temperature 17.48°C, Humidity 16.39%, pH value 7.49, and Rainfall 79.46 mm, the most suitable crops to recommend from the provided categories would be:
+
+Legumes:
+1. ChickPea - The low temperature, low humidity, and moderate rainfall conditions are favorable for growing chickpeas.
+
+Fibers:
+2. Cotton - Cotton can tolerate the given temperature, humidity, and rainfall ranges, and the high potassium level is beneficial for its growth.
+
+Considering the diversity of crops, I would recommend growing ChickPea and Cotton under these environmental conditions. However, it's important to note that other factors such as soil type, irrigation facilities, and local climate patterns should also be taken into account for successful cultivation."
+"Nitrogen level is 32, Phosphorus level is 79, Potassium level is 15, Temperature is 23.90910104°C, Humidity is 20.74619325%, pH value is 5.706198621, and Rainfall is 81.60211243 mm .Ensure to include a diverse range of plants from the following categories: Grains (e.g., Rice, Maize), Legumes (e.g., ChickPea, KidneyBeans, PigeonPeas, MothBeans, MungBean, Blackgram, Lentil), Fibers (e.g., Jute, Cotton), Beverage Crops (e.g., Coffee), Consider all parameters and ensure that the recommendations are suitable for the given environmental conditions.which crops are recommended?","Based on the given environmental conditions (Nitrogen level: 32, Phosphorus level: 79, Potassium level: 15, Temperature: 23.90910104°C, Humidity: 20.74619325%, pH value: 5.706198621, and Rainfall: 81.60211243 mm), the following crops are recommended:
+
+Grains:
+- Rice: This crop can tolerate a wide range of soil conditions and can grow well in the given temperature and rainfall range.
+
+Legumes:
+- Chickpea: The temperature, humidity, and rainfall conditions are suitable for growing chickpeas.
+- Kidney Beans: The temperature and rainfall conditions are favorable for kidney bean cultivation.
+- Pigeon Peas: Pigeon peas can thrive in the given temperature and rainfall conditions.
+
+Fibers:
+- Cotton: Cotton is a suitable fiber crop for the given environmental conditions, particularly the temperature and rainfall.
+
+Beverage Crops:
+- Coffee: The temperature and rainfall conditions are conducive for coffee cultivation.
+
+This recommendation covers a diverse range of crops from different categories, ensuring a balanced selection. However, it's essential to consider other factors such as soil type, irrigation facilities, and local agricultural practices before making a final decision."
+"Nitrogen level is 27, Phosphorus level is 74, Potassium level is 20, Temperature is 24.69487673°C, Humidity is 59.96669215%, pH value is 5.859813416, and Rainfall is 91.95792434 mm .Ensure to include a diverse range of plants from the following categories: Grains (e.g., Rice, Maize), Legumes (e.g., ChickPea, KidneyBeans, PigeonPeas, MothBeans, MungBean, Blackgram, Lentil), Fibers (e.g., Jute, Cotton), Beverage Crops (e.g., Coffee), Consider all parameters and ensure that the recommendations are suitable for the given environmental conditions.which crops are recommended?","Based on the given environmental conditions of Nitrogen level 27, Phosphorus level 74, Potassium level 20, Temperature 24.69°C, Humidity 59.97%, pH value 5.86, and Rainfall 91.96 mm, the following crops are recommended from a diverse range of categories:
+
+Grains:
+1. Maize - The temperature, humidity, and rainfall levels are suitable for maize cultivation.
+
+Legumes:
+1. PigeonPeas - The temperature, humidity, and rainfall conditions align well with the requirements for pigeon pea cultivation.
+2. MothBeans - The temperature and rainfall levels are appropriate for moth bean cultivation, although the pH value is slightly on the lower side.
+
+Fibers:
+1. Cotton - The temperature, humidity, and rainfall conditions are favorable for cotton cultivation.
+
+Beverage Crops:
+1. Coffee - The temperature and rainfall levels are suitable for coffee cultivation, although the pH value is slightly on the acidic side.
+
+It's important to note that while these crops are recommended based on the given environmental conditions, other factors such as soil quality, irrigation facilities, and local agricultural practices should also be considered for successful cultivation."
+"Nitrogen level is 20, Phosphorus level is 45, Potassium level is 16, Temperature is 29.93964907°C, Humidity is 54.61813464%, pH value is 4.626212446, and Rainfall is 45.43669946 mm .Ensure to include a diverse range of plants from the following categories: Grains (e.g., Rice, Maize), Legumes (e.g., ChickPea, KidneyBeans, PigeonPeas, MothBeans, MungBean, Blackgram, Lentil), Fibers (e.g., Jute, Cotton), Beverage Crops (e.g., Coffee), Consider all parameters and ensure that the recommendations are suitable for the given environmental conditions.which crops are recommended?","Based on the given environmental conditions of Nitrogen level 20, Phosphorus level 45, Potassium level 16, Temperature 29.93964907°C, Humidity 54.61813464%, pH value 4.626212446, and Rainfall 45.43669946 mm, the following crops are recommended:
+
+Grains:
+- Rice (can tolerate a wide range of conditions)
+
+Legumes:
+- Pigeonpeas (prefer warm temperatures, moderate rainfall, and can tolerate slightly acidic soils)
+- Blackgram (drought-tolerant and suitable for warm temperatures)
+- Mothbeans (can grow in warm temperatures and moderate rainfall)
+
+Fibers:
+- Cotton (prefers warm temperatures and moderate rainfall, can tolerate slightly acidic soils)
+
+The recommended crops are diverse and cover different categories, ensuring a balanced selection. However, it's important to note that the low pH value (4.626212446) may not be ideal for some crops, and soil amendments or adjustments may be necessary to improve the growing conditions."
+"Nitrogen level is 38, Phosphorus level is 36, Potassium level is 21, Temperature is 28.02952623°C, Humidity is 84.8845732%, pH value is 6.556372966, and Rainfall is 36.12042927 mm .Ensure to include a diverse range of plants from the following categories: Grains (e.g., Rice, Maize), Legumes (e.g., ChickPea, KidneyBeans, PigeonPeas, MothBeans, MungBean, Blackgram, Lentil), Fibers (e.g., Jute, Cotton), Beverage Crops (e.g., Coffee), Consider all parameters and ensure that the recommendations are suitable for the given environmental conditions.which crops are recommended?","Based on the given environmental conditions (Nitrogen level: 38, Phosphorus level: 36, Potassium level: 21, Temperature: 28.02952623°C, Humidity: 84.8845732%, pH value: 6.556372966, and Rainfall: 36.12042927 mm), the following crops are recommended:
+
+Grains:
+- Rice: The temperature and humidity levels are suitable for rice cultivation, but the rainfall amount may be slightly low. However, with proper irrigation management, rice could be grown.
+
+Legumes:
+- MungBean: The environmental conditions, particularly the temperature, humidity, and pH value, are favorable for growing MungBean.
+- Blackgram: The temperature and pH value are within the suitable range for Blackgram cultivation.
+
+Fibers:
+- Cotton: The temperature and pH value are appropriate for cotton cultivation, but the humidity level may be slightly high. With proper management practices, cotton could be grown.
+
+Beverage Crops:
+- Coffee: The temperature and pH value are within the suitable range for coffee cultivation, but the humidity level may be slightly high. With proper management practices, coffee could be grown.
+
+It's important to note that while these crops are recommended based on the given environmental conditions, other factors such as soil quality, irrigation availability, and local agricultural practices should also be considered for successful cultivation.
+
+Additionally, it's advisable to consult with local agricultural experts or extension services for more specific recommendations tailored to your region and farming practices."
+"Nitrogen level is 40, Phosphorus level is 68, Potassium level is 17, Temperature is 34.1262979°C, Humidity is 65.14877461%, pH value is 7.733149554, and Rainfall is 70.40795007 mm .Ensure to include a diverse range of plants from the following categories: Grains (e.g., Rice, Maize), Legumes (e.g., ChickPea, KidneyBeans, PigeonPeas, MothBeans, MungBean, Blackgram, Lentil), Fibers (e.g., Jute, Cotton), Beverage Crops (e.g., Coffee), Consider all parameters and ensure that the recommendations are suitable for the given environmental conditions.which crops are recommended?","Based on the given environmental conditions (Nitrogen level: 40, Phosphorus level: 68, Potassium level: 17, Temperature: 34.12°C, Humidity: 65.15%, pH: 7.73, Rainfall: 70.41 mm), the following crops are recommended:
+
+Grains:
+- Rice (suitable for high temperatures and moderate rainfall)
+
+Legumes: 
+- Blackgram (suitable for high temperatures, moderate rainfall, and slightly alkaline soil pH)
+- PigeonPeas (suitable for high temperatures and moderate rainfall)
+
+Fibers:
+- Cotton (suitable for high temperatures, moderate rainfall, and slightly alkaline soil pH)
+
+The recommended crops cover a diverse range of plant categories, including grains, legumes, and fibers. These crops are well-suited to the given environmental conditions, particularly the high temperature and moderate rainfall levels. However, it's important to note that other factors, such as soil quality, irrigation availability, and local climate patterns, should also be considered for successful cultivation."
+"Nitrogen level is 7, Phosphorus level is 63, Potassium level is 24, Temperature is 19.55750776°C, Humidity is 64.45268309%, pH value is 6.818681086, and Rainfall is 53.04669416 mm .Ensure to include a diverse range of plants from the following categories: Grains (e.g., Rice, Maize), Legumes (e.g., ChickPea, KidneyBeans, PigeonPeas, MothBeans, MungBean, Blackgram, Lentil), Fibers (e.g., Jute, Cotton), Beverage Crops (e.g., Coffee), Consider all parameters and ensure that the recommendations are suitable for the given environmental conditions.which crops are recommended?","Based on the given environmental conditions (Nitrogen level: 7, Phosphorus level: 63, Potassium level: 24, Temperature: 19.56°C, Humidity: 64.45%, pH value: 6.82, and Rainfall: 53.05 mm), the following crops are recommended:
+
+Grains:
+- Rice (suitable for lower temperatures and high rainfall)
+
+Legumes:
+- KidneyBeans (suitable for lower temperatures, moderate rainfall, and slightly acidic pH)
+- Lentil (suitable for lower temperatures, moderate rainfall, and slightly acidic pH)
+
+Fibers:
+- Jute (can tolerate a wide range of conditions, including moderate temperatures and rainfall)
+
+Beverage Crops:
+- Coffee (can grow in moderate temperatures and rainfall, prefers slightly acidic soils)
+
+The recommended crops cover a diverse range of plant categories, including grains, legumes, fibers, and beverage crops. These recommendations consider the given environmental parameters and aim to provide suitable options for the specified conditions.
+
+It's important to note that crop selection should also consider other factors such as soil type, irrigation availability, and local agricultural practices. Additionally, crop rotation and intercropping can help maintain soil fertility and promote biodiversity."
+"Nitrogen level is 65, Phosphorus level is 54, Potassium level is 39, Temperature is 23.75091572°C, Humidity is 71.14782585%, pH value is 7.124571593, and Rainfall is 160.0889553 mm .Ensure to include a diverse range of plants from the following categories: Grains (e.g., Rice, Maize), Legumes (e.g., ChickPea, KidneyBeans, PigeonPeas, MothBeans, MungBean, Blackgram, Lentil), Fibers (e.g., Jute, Cotton), Beverage Crops (e.g., Coffee), Consider all parameters and ensure that the recommendations are suitable for the given environmental conditions.which crops are recommended?","Based on the given conditions of Nitrogen level 65, Phosphorus level 54, Potassium level 39, Temperature 23.75°C, Humidity 71.15%, pH value 7.12, and Rainfall 160.09 mm, the most suitable crops to recommend would be:
+
+Grains:
+- Rice (suitable temperature, humidity, and rainfall range)
+
+Legumes: 
+- Jute (fits well with the given nutrient levels, temperature, humidity, pH, and rainfall)
+- MungBean (can tolerate the given conditions reasonably well)
+
+Fibers:
+- Jute (an excellent match for the provided environmental parameters)
+- Cotton (the temperature, humidity, and rainfall are suitable for cotton cultivation)
+
+Beverage Crops:
+- Coffee (the temperature, humidity, pH, and rainfall levels are favorable for coffee cultivation)
+
+This recommendation covers a diverse range of crops from different categories while considering the specific environmental conditions provided. Jute appears to be an ideal crop for the given parameters, while Rice, MungBean, Cotton, and Coffee are also viable options that can be cultivated under these conditions."
+"Nitrogen level is 80, Phosphorus level is 18, Potassium level is 31, Temperature is 24.02952505°C, Humidity is 58.84880599%, pH value is 7.303033217, and Rainfall is 134.6803969 mm .Ensure to include a diverse range of plants from the following categories: Grains (e.g., Rice, Maize), Legumes (e.g., ChickPea, KidneyBeans, PigeonPeas, MothBeans, MungBean, Blackgram, Lentil), Fibers (e.g., Jute, Cotton), Beverage Crops (e.g., Coffee), Consider all parameters and ensure that the recommendations are suitable for the given environmental conditions.which crops are recommended?","Based on the given environmental conditions of Nitrogen level 80, Phosphorus level 18, Potassium level 31, Temperature 24.02952505°C, Humidity 58.84880599%, pH value 7.303033217, and Rainfall 134.6803969 mm, the recommended crops from a diverse range of categories are:
+
+Grains:
+- Rice
+
+Legumes: 
+- Coffee
+
+Fibers:
+- Cotton
+
+Explanation:
+
+1. Rice: The conditions are suitable for growing rice, which prefers a warm temperature, moderate humidity, and a slightly acidic to neutral soil pH.
+
+2. Coffee: The environmental parameters align well with the requirements for growing coffee, which thrives in warm temperatures, moderate humidity, and slightly acidic to neutral soil pH.
+
+3. Cotton: The given conditions, including temperature, humidity, and soil pH, are favorable for cultivating cotton, a fiber crop.
+
+While considering the diversity of crops, it is important to note that other factors such as soil type, irrigation facilities, and local agricultural practices may also influence crop selection. Additionally, crop rotation and intercropping can be practiced to promote soil health and sustainable farming practices."
+"Nitrogen level is 106, Phosphorus level is 49, Potassium level is 24, Temperature is 23.03887865°C, Humidity is 76.47039772%, pH value is 6.983395573, and Rainfall is 90.64770699 mm .Ensure to include a diverse range of plants from the following categories: Grains (e.g., Rice, Maize), Legumes (e.g., ChickPea, KidneyBeans, PigeonPeas, MothBeans, MungBean, Blackgram, Lentil), Fibers (e.g., Jute, Cotton), Beverage Crops (e.g., Coffee), Consider all parameters and ensure that the recommendations are suitable for the given environmental conditions.which crops are recommended?","Based on the given conditions of Nitrogen level 106, Phosphorus level 49, Potassium level 24, Temperature 23.03°C, Humidity 76.47%, pH value 6.98, and Rainfall 90.65 mm, the recommended crops from the provided categories are:
+
+Grains:
+- Rice (suitable temperature and rainfall range)
+
+Legumes: 
+- Blackgram (suitable temperature, rainfall, and soil nutrient levels)
+- MungBean (suitable temperature and rainfall range)
+- Lentil (suitable temperature and rainfall range)
+
+Fibers:
+- Cotton (suitable temperature, humidity, pH, and rainfall range)
+
+Beverage Crops:
+- Coffee (suitable temperature, rainfall, and soil nutrient levels)
+
+The recommendations cover a diverse range of plants from grains, legumes, fibers, and beverage crops, considering the given environmental conditions and nutrient levels. These crops are known to thrive well under similar conditions, ensuring a balanced and diverse crop selection."
